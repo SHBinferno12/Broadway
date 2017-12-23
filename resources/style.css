@@ -12,3 +12,28 @@ p a,
 .footer p {
   color: white;
 }
+.bckgr h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+a {
+  font-size: 18px;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+.footer p {
+  font-size: 11px;
+}
+.footer {
+  background-color: dimgray;
+  text-align: left;
+}
