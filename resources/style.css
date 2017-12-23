@@ -5,6 +5,10 @@ body {
 .bckgr {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png")
 }
-p.footer {
+h4 a,
+p a,
+.bckgr h1,
+.bckgr h3,
+.footer p {
   color: white;
 }
